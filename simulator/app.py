@@ -2,6 +2,7 @@ import streamlit as st
 import json
 from vault import Vault
 from calculator import calculate_short_pnl, calculate_long_pnl, Trading, Tick
+from utils import distinct
 
 vaults = {
     "ETH²": Vault("ETH²", 1e4),
@@ -35,22 +36,20 @@ vault_info = vaults[vault_type]
 open_at_tick = None
 close_at_tick = None
 with open("/app/data/"+vault_type+".json", "r") as f:
-    ticks = [Tick(tick) for tick in json.load(f)]
-
-    # TODO: Sampling same rate from the data
+    original_ticks = [Tick(tick) for tick in json.load(f)]
+    ticks = distinct(original_ticks)
 
     tick_keys = ["{:.2f}% ({})".format(tick.rate, tick.datetime()) for tick in ticks]
-    st.markdown("Loaded {} ticks from {}.json".format(len(ticks), vault_type))
+    st.markdown("Loaded {} ticks from {}.json".format(len(original_ticks), vault_type))
 
     col1, col2 = st.columns(2)
     with col1:
-        open_at_tick = st.selectbox(
-            "Select rate at tick do you want to open/close the position",
+        open_at_tick = st.selectbox("Select open tick",
             tick_keys,
             placeholder="Select open tick",
         )
     with col2:
-        close_at_tick = st.selectbox(" ",
+        close_at_tick = st.selectbox("Select close tick",
             tick_keys,
             placeholder="Select close tick",
         )

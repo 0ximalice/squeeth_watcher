@@ -88,5 +88,761 @@
 		"index_price": 6469576,
 		"mark_price_eth": 0.0649216169664254,
 		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705483941,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705483992,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484044,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484096,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484147,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484198,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484249,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484301,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484353,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484404,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484455,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484507,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484558,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484609,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484660,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484712,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484764,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484816,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484866,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484928,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705484978,
+		"rate": 6.125396926754886,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3864,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.209478072
+	},
+	{
+		"at": 1705485039,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485091,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485142,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485194,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485245,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485296,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485348,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485400,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485450,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485518,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485569,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485621,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485672,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485723,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485775,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485827,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485879,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485930,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705485994,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486045,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486098,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486150,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486201,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486253,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486304,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486356,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486406,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486458,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486508,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486560,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486611,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486662,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486714,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486765,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486817,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486869,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486919,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705486971,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487022,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487073,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487124,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487176,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487227,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487278,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487330,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487397,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487464,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487516,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487567,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487617,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487668,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487720,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487772,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487824,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487874,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487930,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705487982,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705488033,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705488083,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705488135,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705488186,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705488238,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
+	},
+	{
+		"at": 1705488290,
+		"rate": 6.125401099357087,
+		"normalization_factor": 240495262752209345,
+		"spot_price": 2543.3865,
+		"index_price": 6469576,
+		"mark_price_eth": 0.0649216169664254,
+		"mark_price": 6865863.479427742
 	}
 ]
